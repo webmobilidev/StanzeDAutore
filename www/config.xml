@@ -8,7 +8,7 @@ Tieniti aggiornato con tutte le novità presentate alle fiere di settore nell'ap
 All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: nome e descrizione del prodotto, misure, materiali e caratteristiche. 
 Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
 </description>
-    <author email="info@stanzedautore.it" href="www.stanzedautore.it">
+    <author email="info@stanzedautore.it" href="http://www.stanzedautore.it">
         Stanze d'Autore
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
